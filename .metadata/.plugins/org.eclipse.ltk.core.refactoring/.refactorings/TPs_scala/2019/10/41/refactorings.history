@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;exo1.scala&apos; to &apos;TPs_scala/src/TP2&apos;&#x0A;- Original project: &apos;TPs_scala&apos;&#x0A;- Destination element: &apos;TPs_scala/src/TP2&apos;&#x0A;- Original element: &apos;exo1.scala&apos;" description="Copy file" destination="/src&lt;TP2" element1="src/TP1/exo1.scala" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1570540454943" units="0" version="1.0"/>
+</session>
