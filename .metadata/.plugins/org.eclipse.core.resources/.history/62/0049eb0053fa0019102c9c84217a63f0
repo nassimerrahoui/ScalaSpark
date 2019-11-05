@@ -1,7 +1,0 @@
-package TP4
-
-object StereoPrix {
-   def def main(args: Array[String]): Unit = {
-     
-   }
-}
