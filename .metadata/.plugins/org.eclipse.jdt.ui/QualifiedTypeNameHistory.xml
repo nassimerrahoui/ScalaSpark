@@ -2,4 +2,32 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.apache.spark.streaming.Seconds"/>
 <fullyQualifiedTypeName name="org.apache.log4j.Level"/>
+<fullyQualifiedTypeName name="org.apache.zookeeper.Watcher"/>
+<fullyQualifiedTypeName name="org.apache.zookeeper.ZooKeeper"/>
+<fullyQualifiedTypeName name="org.apache.zookeeper.KeeperException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.apache.zookeeper.Watcher.WatcherType"/>
+<fullyQualifiedTypeName name="util.Constantes"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="exo1.Surveillant"/>
+<fullyQualifiedTypeName name="util.Client"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.ipc.RpcServer.Connection"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.HBaseAdmin"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.ConnectionFactory"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.HTableDescriptor"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.TableName"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.HColumnDescriptor"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Table"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Put"/>
+<fullyQualifiedTypeName name="java.lang.Byte"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Get"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Result"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Increment"/>
+<fullyQualifiedTypeName name="exercices_hbase.LastFM"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Connection"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.util.Bytes"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Scan"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

@@ -1,5 +1,0 @@
-package TP5
-
-object TwitGenerator extends App {
-  
-}
